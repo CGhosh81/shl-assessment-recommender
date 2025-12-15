@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "duration_minutes": 20,
+    "job_levels": "Mid-Professional,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+    "duration_minutes": 13,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "duration_minutes": 18,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency.",
+    "duration_minutes": 13,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "description": "This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage conflicts. It is designed for all professionals and covers the following topics: Communication and Perception, Group Communication and Teamwork, Intercultural Communication, Interpersonal Communication, Interviewing and Communication, Intrapersonal Communication, Listening, Nonverbal Communication, Technology in Communication, Verbal Communication, and Language.",
+    "duration_minutes": 15,
+    "job_levels": "Entry-Level, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Report Language Availability: English (USA), English International,     Portuguese, French Canadian, German, French, Chinese Simplified, Spanish, North American Spanish.",
+    "duration_minutes": 20,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA), Spanish, Latin American Spanish, French, German, French (Canada), English International, Chinese Simplified, Portuguese,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+    "duration_minutes": 20,
+    "job_levels": "Entry-Level,",
+    "languages": "Swedish, Chinese Simplified, Finnish, English (USA), Portuguese (Brazil), French, Danish, Italian, Arabic, Dutch, French (Canada), Latin American Spanish, English International, Norwegian, German,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Report Language Availability: English (USA)",
+    "duration_minutes": 20,
+    "job_levels": "Entry-Level,",
+    "languages": "German, Italian, Chinese Simplified, Finnish, Danish, English (USA), English International, Latin American Spanish, French (Canada), French, Dutch, Norwegian, Swedish, Arabic,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "description": "The Sales Representative solution is for entry-level sales positions in which employees proactively sell products to customers and have their pay and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Potential job titles that use this solution are: Sales\r\nRepresentative, Sales Associate, and Sales Clerk. Multiple configurations of this solution are available.",
+    "duration_minutes": 29,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "description": "This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers at all levels and with external business contacts. Designed for the average business worker, this test includes the following topics: Electronic Communication, Employment Communication, Listening, Meetings, Nonverbal Communication, Verbal Communication, and Written Communication.",
+    "duration_minutes": 24,
+    "job_levels": "Entry-Level, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "description": "The Technical Sales Associate solution is for entry-level retail positions in which employees proactively sell a specific line of products that requires substantial knowledge about the products and have their pay and/or performance based on sales revenue.  Sample tasks for these jobs include, but are not limited to: obtaining detailed product information, promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.  Potential job titles that use this solution are: Sales Representative, Retail Sales Associate, and Sales Clerk. Multiple configurations of this solution are available.",
+    "duration_minutes": 41,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "description": "An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "duration_minutes": null,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "duration_minutes": 0,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/solutions/identify-develop-leaders/enterprise-leadership/ .",
+    "duration_minutes": null,
+    "job_levels": "Director, Executive, Manager, Mid-Professional,",
+    "languages": null,
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world. It sets a high standard of measurement excellence, providing HR professionals and business managers with relevant and accurate information to make fast and well-informed people decisions. The OPQ32 provides a clear framework for understanding the impact of personality on job performance. It is internationally recognised for its accuracy of assessment. Over 90 independent validation studies have been conducted on the OPQ over a period of 25 years, across 20 countries and 40 industries, providing concrete evidence of its power to predict performance in the workplace.",
+    "duration_minutes": 25,
+    "job_levels": "Professional Individual Contributor, Supervisor, Mid-Professional, Front Line Manager, General Population, Graduate, Manager, Director, Executive,",
+    "languages": "English International, French (Canada), Portuguese, Chinese Simplified, Chinese Traditional, French (Belgium), French, Polish, Slovak, Czech, Danish, Flemish, Dutch, Estonian, Finnish, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, English (USA), Arabic, Portuguese (Brazil), Spanish, Latin American Spanish, Romanian, Russian, Serbian, Swedish, Thai, Turkish, Malay, Vietnamese,",
+    "test_type": [
+      "Personality & Behavior"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "description": "This OPQ (Occupational Personality Questionnaire) report provides a detailed analysis of an individual's leadership potential.  It is based on SHL's leading edge Leadership Model, providing a competency based approach to leadership.",
+    "duration_minutes": null,
+    "job_levels": "Director, Executive, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": "Dutch, English International, English (USA), Romanian, Portuguese, French, German, Swedish, Chinese Simplified, Portuguese (Brazil), Japanese, Polish, Russian, Latin American Spanish,",
+    "test_type": [
+      "Personality & Behavior"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
+    "description": "This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles.  Belbins team types: individual preferred role when working in ateam.  Bass's leadership and reporting styles: individuals preferred leadership styles and likely style of behaviour as a direct report.",
+    "duration_minutes": null,
+    "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": "Flemish, French (Belgium), Portuguese (Brazil), Danish, Dutch, Finnish, French (Canada), French, Italian, Latin American Spanish, Norwegian, Portuguese, English International, English (USA),",
+    "test_type": [
+      "Personality & Behavior"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/solutions/identify-develop-leaders/enterprise-leadership/ .",
+    "duration_minutes": null,
+    "job_levels": "Director, Executive, Manager, Mid-Professional,",
+    "languages": null,
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "description": "The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most discrete level of SHL’s Universal Competency Framework (UCF). The GSA measures self-reported behaviors an individual currently engages in. A person’s skills (sets of behavior) are malleable and may change over time. SHL utilizes GSA scores to understand what the participant reports they can do today.",
+    "duration_minutes": 16,
+    "job_levels": null,
+    "languages": "Indonesian, Italian, Swedish, Thai, Portuguese (Brazil), French (Canada), Chinese Simplified, Danish, Finnish, French, German, English International, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Romanian, Spanish, Vietnamese, Chinese Traditional, Arabic, English (USA), Dutch, Portuguese, Turkish,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "description": "The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and predict author responses. Sample tasks for jobs that may require verbal ability include, but are not limited to: working with reports, correspondence, instructions, and research information. The Verbal Ability test, due to its adaptive nature, is appropriate for all job levels and roles.",
+    "duration_minutes": 15,
+    "job_levels": "General Population, Graduate, Executive, Director, Entry-Level, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Front Line Manager,",
+    "languages": "English (USA), English International,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+    "duration_minutes": 20,
+    "job_levels": "Professional Individual Contributor, Graduate, Manager, Mid-Professional,",
+    "languages": "Korean, Japanese, Thai, Portuguese (Brazil), Portuguese, Chinese Traditional, Indonesian, Russian, Romanian, Polish, Greek, Latin American Spanish, English International, Arabic, Hungarian, Czech, French (Canada), Slovak, Serbian, Turkish, Spanish, Danish, Estonian, Finnish, Latvian, Lithuanian, Norwegian, Swedish, French, German, Italian, Dutch, Chinese Simplified, English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "description": "Multi-choice test that measures the conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management, channel management and advertisement management.",
+    "duration_minutes": 9,
+    "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "duration_minutes": 0,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "description": "Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+    "duration_minutes": 17,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "description": "The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language and covers the following topics: Articles, Comparisons, Conjunctions, General Questions, Misused Words, Nouns, Parallel Structure, Prepositions, Pronouns, Specific Questions, and Verbs.",
+    "duration_minutes": 30,
+    "job_levels": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA), English International,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world. It sets a high standard of measurement excellence, providing HR professionals and business managers with relevant and accurate information to make fast and well-informed people decisions. The OPQ32 provides a clear framework for understanding the impact of personality on job performance. It is internationally recognised for its accuracy of assessment. Over 90 independent validation studies have been conducted on the OPQ over a period of 25 years, across 20 countries and 40 industries, providing concrete evidence of its power to predict performance in the workplace.",
+    "duration_minutes": 25,
+    "job_levels": "Professional Individual Contributor, Supervisor, Mid-Professional, Front Line Manager, General Population, Graduate, Manager, Director, Executive,",
+    "languages": "English International, French (Canada), Portuguese, Chinese Simplified, Chinese Traditional, French (Belgium), French, Polish, Slovak, Czech, Danish, Flemish, Dutch, Estonian, Finnish, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, English (USA), Arabic, Portuguese (Brazil), Spanish, Latin American Spanish, Romanian, Russian, Serbian, Swedish, Thai, Turkish, Malay, Vietnamese,",
+    "test_type": [
+      "Personality & Behavior"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "description": "Multi-choice test that measures the knowledge on the concepts of need of SEO, SEO planning, SEO strategies, SEO software, tools and exchanging links.",
+    "duration_minutes": 12,
+    "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "description": "A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+    "duration_minutes": 60,
+    "job_levels": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Professional + 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "duration_minutes": 56,
+    "job_levels": "General Population, Mid-Professional, Professional Individual Contributor,",
+    "languages": "Chinese Traditional, Dutch, Chinese Simplified, French, English International, Swedish, Italian, Norwegian, Danish, English (USA), French (Canada), Portuguese (Brazil), Spanish, German, Portuguese, Finnish,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "description": "Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+    "duration_minutes": 9,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "Knowledge & Skills"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "description": "Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
+    "duration_minutes": 12,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "description": "Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+    "duration_minutes": 8,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "description": "Multi-choice test that measures the knowledge of Selenium IDE, Selenium RC, Selenium grid, web driver, test design considerations, user extensions, frameworks and object repository.",
+    "duration_minutes": 10,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "description": "Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple tables.",
+    "duration_minutes": 11,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "duration_minutes": 30,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test reports.",
+    "duration_minutes": 10,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+    "duration_minutes": 36,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "description": "The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the Global Cognitive Index – Adaptive Quantitative test, and measures the ability to:\r\n•\tDerive the numerical problem from a written problem\r\n•\tCalculate the answer to numerical equations\r\n•\tWork with numerical data in a realistic workplace context\r\n\r\nThe test is 20 minutes long, has 16 items and is designed to provide an indication of how an individual will perform when asked to work with numerical information or statistical details.",
+    "duration_minutes": 20,
+    "job_levels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": "Arabic, Portuguese (Brazil), French (Canada), Chinese Simplified, Czech, Dutch, Finnish, French, German, Hungarian, Indonesian, English International, Italian, Japanese, Korean, Norwegian, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Turkish, English (USA), Latin American Spanish, Polish, Serbian, Chinese Traditional, Danish, Thai, Greek,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Financial Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+    "duration_minutes": 35,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+    "duration_minutes": 35,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "General Entry Level – Data Entry 7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner.  \r\n\r\nThis solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant. Report Language Availability: English (USA)",
+    "duration_minutes": 24,
+    "job_levels": "General Population, Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+    "duration_minutes": 30,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Manager 8.0+ JFA",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "description": "The Manager 8.0+ Job-Focused Assessment is designed for candidates applying to their first leadership positions and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Inductive Reasoning. It measures behaviors that underlie successful performance in first-line manager roles across a wide range of industries. It is most relevant to positions that supervise salaried employees. This JFA includes the Reskilling Potential Scale and the Management Potential Scale. •The Reskilling Potential scale measures tendency to learn from experiences in a way that supports professional success. •The Management Potential scale measures the potential for managerial success across industry type and functional area.",
+    "duration_minutes": 44,
+    "job_levels": "Manager,",
+    "languages": "English (USA), English International,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "description": "The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+    "duration_minutes": 30,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "description": "Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
+    "duration_minutes": 7,
+    "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette. Your use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "duration_minutes": 15,
+    "job_levels": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "description": "The Verify Interactive Numerical Calculation test measures a candidate’s ability to work with numbers and use appropriate mathematics in different situations. The Numerical Ability test requires candidates to understand order of operations, perform numerical calculations, and identify errors in calculations. The Numerical Calculation test, though it is adaptive, is ideal for entry-level jobs that require completing simple numerical calculations quickly and accurately.",
+    "duration_minutes": 10,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA), English International,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Professional + 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "duration_minutes": 56,
+    "job_levels": "General Population, Mid-Professional, Professional Individual Contributor,",
+    "languages": "Chinese Traditional, Dutch, Chinese Simplified, French, English International, Swedish, Italian, Norwegian, Danish, English (USA), French (Canada), Portuguese (Brazil), Spanish, German, Portuguese, Finnish,",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "description": "Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI, DAX, MDX, tabular model data access and security.",
+    "duration_minutes": 15,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "description": "Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+    "duration_minutes": 11,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "description": "Multi-choice test that measures the knowledge of how to use Tableau to prepare tables, create visualizations, perform calculations, apply filters and carry out forecasting.",
+    "duration_minutes": 8,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics: Applying Formulas and Functions, Creating and Analyzing Data, Formatting Cells, Data, and Content, Managing Workbooks and Worksheets, Presenting Data Visually, Printing and Views, and Sharing, Maintaining, and Securing Workbooks.",
+    "duration_minutes": 35,
+    "job_levels": "Entry-Level,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Professional + 7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "description": "Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services. Report Language Availability: English (USA).",
+    "duration_minutes": 51,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English International, English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "description": "The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and Data Warehouse Appliance, Business Considerations, Data Transformation, Data Warehousing and Data Marts, Design, Dimensional Data Model, On Line Analytical Processing (OLAP), Querying and Reporting/Data Extraction.",
+    "duration_minutes": 25,
+    "job_levels": "Mid-Professional, Professional Individual Contributor,",
+    "languages": "English (USA),",
+    "test_type": [
+      "General"
+    ],
+    "remote_support": true,
+    "adaptive_support": false
+  }
+]
