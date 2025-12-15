@@ -1,0 +1,26 @@
+# Core
+python>=3.9
+
+# Data handling
+pandas
+numpy
+
+# Web scraping
+requests
+beautifulsoup4
+lxml
+
+# NLP / Embeddings
+sentence-transformers
+torch
+
+# Vector search
+faiss-cpu
+
+# API
+fastapi
+uvicorn
+
+# Evaluation / utils
+scikit-learn
+tqdm
