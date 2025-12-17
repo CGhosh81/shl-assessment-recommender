@@ -78,12 +78,12 @@ notebooks/web_scraping_and_vector_database.ipynb
 
 Example results:
 
-
+```
 Recall@1 = 0.60
 Recall@3 = 0.80
 Recall@5 = 0.90
 Recall@10 = 1.00
-
+```
 
 ---
 
@@ -185,4 +185,5 @@ response = requests.post(url, json=payload)
 
 results = response.json()
 ```
+
 
