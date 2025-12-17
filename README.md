@@ -148,6 +148,7 @@ Response:
 └── README.md
 ```
 ## How to Run
+NOTE: System Should have python
 1. Install dependencies
 ```
 pip install -r requirements.txt
